@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MINU's%20%20GITHUB&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=MINU's%20%20GITHUB&fontSize=90" />
 </p>
 <p align="center">
   <a href="mailto:alsn0527@naver.com" target="_blank">
