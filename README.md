@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=MINU's%20%20GITHUB&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=MINU's%20%20GITHUB&fontSize=90&fontColor=black&customColorList=0,2,2,5,30" />
 </p>
 <p align="center">
   <a href="https://www.notion.so/f51c5fa1ceab478a91c406262c8e7f9e">
