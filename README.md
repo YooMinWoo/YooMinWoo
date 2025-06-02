@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=MINU's%20%20GITHUB&fontSize=90" />
 </p>
 <p align="center">
-  <a href="mailto:alsn0527@naver.com" target="_blank">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white" alt="Naver Email" />
-  </a> &nbsp;
+  <a href="https://www.notion.so/f51c5fa1ceab478a91c406262c8e7f9e">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/alsndpdh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
