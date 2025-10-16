@@ -2,12 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=MINU's%20%20GITHUB&fontSize=90&fontColor=006400&customColorList=3" />
 </p>
 <p align="center">
-  <a href="https://lucky-card-a56.notion.site/f51c5fa1ceab478a91c406262c8e7f9e?pvs=143">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/alsndpdh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://lucky-card-a56.notion.site/f51c5fa1ceab478a91c406262c8e7f9e?pvs=143"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href="https://instagram.com/alsndpdh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
